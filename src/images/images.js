@@ -1,15 +1,7 @@
-import dirt from './dirt.jpg';
-import glass from './glass.png';
-import grass from './grass.jpg';
-import log from './log.jpg';
-import wood from './wood.png';
+import dirtImg from './dirt.jpg';
+import glassImg from './glass.png';
+import grassImg from './grass.jpg';
+import logImg from './log.jpg';
+import woodImg from './wood.png';
 
-const images = {
-    dirt,
-    glass,
-    grass,
-    log,
-    wood,
-};
-
-export default images;
+export { dirtImg, glassImg, grassImg, logImg, woodImg };
